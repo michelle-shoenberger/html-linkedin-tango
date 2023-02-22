@@ -1,1 +1,23 @@
-/* write styles here */
+div {
+  border: 1px solid grey;
+  padding: 5px;
+  background-color: white;
+}
+.intro {
+  display: flex;
+  align-items: center;
+  gap: 25px;
+  padding: 10px;
+  background-color: red;
+  color: white
+  
+}
+h2 {
+  text-align: center;
+}
+.jobs {
+  background-color: lightgrey;
+}
+.education, .skills {
+  background-color: lightgrey;
+}
